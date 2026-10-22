@@ -1,0 +1,1 @@
+# Asset and font notes\n\n- The portrait and pointing character are the exact user-uploaded files, copied byte-for-byte into `assets/`.\n- No external fonts are loaded; system font stacks keep SVGs self-contained and avoid unlicensed font embedding.\n- Social marks are text glyphs rather than copied third-party icon artwork.\n
