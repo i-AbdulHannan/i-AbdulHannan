@@ -1,12 +1,16 @@
-<div align="center">
+<table>
+<tr>
+<td align="center" bgcolor="#0245ec">
 
 # ABDUL HANNAN — `hannanbuilds`
 
-**Founder & SWE @hannanlabs** · Karachi, Pakistan
+**Founder &amp; SWE @hannanlabs** · Karachi, Pakistan
 
 Slow, messy business operations? I build the fix.
 
-</div>
+</td>
+</tr>
+</table>
 
 ---
 
